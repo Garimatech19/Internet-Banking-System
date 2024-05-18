@@ -1,0 +1,6 @@
+{
+    "git.enabled": true,
+    "githubIssues.issueCompletions.enabled": true,
+    "githubIssues.userCompletions.enabled": true,
+    "terminal.integrated.shellIntegration.enabled": true
+}
